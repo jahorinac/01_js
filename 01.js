@@ -28,17 +28,3 @@ let student = {
 
 //05
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-//console.log(_keys({name:, sclass:, shool:, }))

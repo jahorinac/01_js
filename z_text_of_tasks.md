@@ -13,3 +13,7 @@
 03. Write a JavaScript program to delete the regular property from the following object. Also print the object before or after deleting the property.
 
 04. Length of object?
+
+FILE 02
+
+02.01 Write a JavaScript program to display the reading status
