@@ -17,3 +17,8 @@
 FILE 02
 
 02.01 Write a JavaScript program to display the reading status
+
+FILE 03
+
+03.01 Danilo Vesovic - predavanje JS Class
+03.01 Danilo Vesovic - predavanje ES6 moduli
